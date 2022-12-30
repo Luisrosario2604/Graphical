@@ -4,7 +4,7 @@ This is was the biggest graphical project that i done at school
 
 This is a remake of the game called "60 seconds"
 
-######This project was supposed to be done by 4 people but unfortunately all my teammates dropped out of school at that time, so there is only my part (the survival part of the game), enjoy !
+###### This project was supposed to be done by 4 people but unfortunately all my teammates dropped out of school at that time, so there is only my part (the survival part of the game), enjoy !
 
 The goal is to survive as long as possible, a monster can appear every night, when he dies, you gain an improvement point.
 
@@ -20,7 +20,7 @@ Language : C
 
 Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index-fr.php)
 
-######Binary file can be also found if you don't want to install the CSFML and just try my "my_rpg".
+###### Binary file can be also found if you don't want to install the CSFML and just try my "my_rpg".
 
 ## Usage
 
@@ -33,7 +33,7 @@ Works only with the mouse
 
 ## Compiling
 
-######Go in the project directory
+###### Go in the project directory
 
 Clean (*.o files)
 ```
