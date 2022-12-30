@@ -1,7 +1,7 @@
 # My hunter
 
 The goal is to shoot the ducks with your mouse, try to shoot them with only 3 bullets !
-######This was my first graphical project
+###### This was my first graphical project
 
 ## Requirement
 
@@ -9,7 +9,7 @@ Language : C
 
 Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index-fr.php)
 
-######Binary file can be also found if you don't want to install the CSFML and just try my "my_hunter".
+###### Binary file can be also found if you don't want to install the CSFML and just try my "my_hunter".
 
 ## Usage
 
@@ -19,7 +19,7 @@ Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/i
 
 ## Compiling
 
-######Go in the project directory
+###### Go in the project directory
 
 Clean (*.o files)
 ```
