@@ -3,7 +3,7 @@
 This is a flappy bird remake
 
 Try to go far away without touching the tunnels a score will be displayed when you cross one of them !
-######This was my second graphical project
+###### This was my second graphical project
 
 ## Requirement
 
@@ -11,7 +11,7 @@ Language : C
 
 Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index-fr.php)
 
-######Binary file can be also found if you don't want to install the CSFML and just try my "my_runner".
+###### Binary file can be also found if you don't want to install the CSFML and just try my "my_runner".
 
 ## Usage
 
@@ -38,7 +38,7 @@ KEYBOARD :
 
 ## Compiling
 
-######Go in the project directory
+###### Go in the project directory
 
 Clean (*.o files)
 ```
