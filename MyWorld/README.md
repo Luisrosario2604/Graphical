@@ -8,7 +8,7 @@ Language : C
 
 Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index-fr.php)
 
-######Binary file can be also found if you don't want to install the CSFML and just try my "my_world".
+###### Binary file can be also found if you don't want to install the CSFML and just try my "my_world".
 
 ## Usage
 
@@ -21,7 +21,7 @@ How to run
 
 ## Compiling
 
-######Go in the project directory
+###### Go in the project directory
 
 Clean (*.o files)
 ```
