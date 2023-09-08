@@ -3,6 +3,7 @@
 This is a flappy bird remake
 
 Try to go far away without touching the tunnels a score will be displayed when you cross one of them !
+
 ###### This was my second graphical project
 
 ## Requirement
@@ -125,5 +126,6 @@ __p__p_p_pp___p____p___p___p__p_p___________0
 
 This project was done in 2018
 
-## License
-Project from [EPITECH](https://www.epitech.eu/) school made by Luis ROSARIO
+## Authors
+
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)

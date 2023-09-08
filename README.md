@@ -13,7 +13,7 @@ Language : C
 
 Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index-fr.php)
 
-These 4 projects are made with the CSFML library, witch is pretty hard to install. I added the binary for each project (you don't need to compile and have the library)
+These 4 projects are made with the CSFML library, witch is pretty hard to install. I added the binary for each project (so you don't need to compile and have the library)
 
 ## Compiling
 
@@ -62,10 +62,10 @@ Compile with gdb (debugging)
 
 ![Gif](./MyRpg/src/images/gif/my_rpg.gif)
 
-
 ## Year
 
 These projects were done in 2017 and 2018
 
-## License
-Project from [EPITECH](https://www.epitech.eu/) school made by Luis ROSARIO
+## Authors
+
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)

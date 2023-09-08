@@ -56,5 +56,6 @@ A cool gif to show you a little preview !
 
 This project was done in 2017
 
-## License
-Project from [EPITECH](https://www.epitech.eu/) school made by Luis ROSARIO
+## Authors
+
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)
