@@ -11,37 +11,58 @@
 
 Language : C
 
-Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index-fr.php)
+Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index.php)
 
-These 4 projects are made with the CSFML library, witch is pretty hard to install. I added the binary for each project (so you don't need to compile and have the library)
+These 4 projects are made with the CSFML library, witch is pretty hard to install.
+
+## Installation CSFML (only for Linux)
+
+Installation of SFML (needed by CSFML) and CSFML :
+
+```bash
+sudo dnf install SFML
+sudo dnf install SFML-devel
+sudo dnf install CSFML
+sudo dnf install CSFML-devel
+
+or 
+
+sudo apt-get install libsfml-dev
+sudo apt-get install libcsfml-dev
+```
 
 ## Compiling
 
 ###### Go in one project directory
 
 Clean (*.o files)
-```
-> make clean
+
+```bash
+make clean
 ```
 
 Full clean (*.o and binary file)
-```
-> make fclean
+
+```bash
+make fclean
 ```
 
 Compile
-```
-> make
+
+```bash
+make
 ```
 
 Full clean and compile
-```
-> make re
+
+```bash
+make re
 ```
 
 Compile with gdb (debugging)
-```
-> make gdb
+
+```bash
+make gdb
 ```
 
 ## Previews

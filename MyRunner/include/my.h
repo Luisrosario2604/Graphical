@@ -155,6 +155,7 @@ int size_file(char *);
 void dead_bird(size *, window *, sprite *, int);
 char *my_revstr(char *);
 void display_pause(window *, sprite *, size *);
+int pause_check(window *);
 void display_dead_menu(size *, window *, sprite *, int);
 void display_bird_dead(size *, window *, sprite *, int);
 int counter_c(int);

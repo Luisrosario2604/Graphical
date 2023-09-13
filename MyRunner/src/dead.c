@@ -46,6 +46,7 @@ void display_dead_menu(size *menu, window *windw, sprite *sprt, int i)
 
 void dead_bird(size *dead, window *windw, sprite *sprt, int a)
 {
+	my_putstr("Stop im dead");
 	sfMusic_pause(windw->music);
 	sfMusic_play(windw->hit);
 	int q = 0;

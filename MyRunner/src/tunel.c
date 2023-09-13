@@ -48,6 +48,12 @@ void display_basic(window *windw, sprite *sprt, size *tunel, int a)
 		&& (tunel->positionTunel.x <= 250 + 27))
 			dead_bird(tunel, windw, sprt, 0);
 	}
+	//my_putnbr(tunel->bool);
+	//my_putstr("  ////  ");
+	//my_putnbr(tunel->lenth);
+	//my_putstr("  ////  ");
+	//my_putnbr(tunel->positionTunel.x);
+	//my_putstr("\n");
 	sfSprite_setTexture(sprt->tunel, windw->game, sfTrue);
 	sfSprite_setTextureRect(sprt->tunel, tunel->rectTunel);
 	sfSprite_setScale(sprt->tunel, tunel->scaleTunel);
@@ -82,6 +88,8 @@ void display_tunel_two(window *windw, sprite *sprt, size *tunel, int a)
 void display_tunel(window *windw, sprite *sprt, size *tunel)
 {
 	tunel->lenth = 0;
+	my_putnbr(tunel->bool);
+	my_putstr("\n");
 	int a = 0;
 	while ((tunel->map[a][tunel->lenth]) != '0' && tunel->start >= 1) {
 		display_tunel_two(windw, sprt, tunel, a);

@@ -10,14 +10,15 @@ Try to go far away without touching the tunnels a score will be displayed when y
 
 Language : C
 
-Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index-fr.php)
+Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index.php)
 
-###### Binary file can be also found if you don't want to install the CSFML and just try my "my_runner".
+Check the main README.md for installation instruction (Linux users)
 
 ## Usage
 
 How to run
-```
+
+```bash
 USAGE
        NORMAL USAGE  ->   ./my_runner map.txt
        INFINITE MODE ->   ./my_runner map.txt -i
@@ -28,7 +29,8 @@ USAGE
 ```
 
 Keybinds
-```
+
+```bash
 KEYBOARD :
         SPACE         ->   Jump/Start
         RIGHT ARROW   ->   Play
@@ -42,28 +44,33 @@ KEYBOARD :
 ###### Go in the project directory
 
 Clean (*.o files)
-```
-> make clean
+
+```bash
+make clean
 ```
 
 Full clean (*.o and binary file)
-```
-> make fclean
+
+```bash
+make fclean
 ```
 
 Compile
-```
-> make
+
+```bash
+make
 ```
 
 Full clean and compile
-```
-> make re
+
+```bash
+make re
 ```
 
 Compile with gdb (debugging)
-```
-> make gdb
+
+```bash
+make gdb
 ```
 
 ## Preview
@@ -72,11 +79,11 @@ A cool gif to show you a little preview !
 
 ![Gif](./images/my_runner.gif)
 
-
 ## Custom map
 
 The map is based on a .txt file, you can create as many as you want !
-```
+
+```bash
 These are the only symbols and letters that you can write in map.txt :
 
 [l]         ->   Normal Tunel

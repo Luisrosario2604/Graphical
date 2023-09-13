@@ -37,7 +37,7 @@ void main_game(window *windw, size *sprites, sprite *sprt)
 	int c = counter_c(sprites->time);
 	int d = counter_d(sprites->time);
 	int e = counter_e(sprites->time);
-        main_game_b(windw, sprites, sprt, b);
+    main_game_b(windw, sprites, sprt, b);
 	main_game_e(windw, sprites, sprt, e);
 	display_tunel(windw, sprt, sprites);
 	main_game_c(windw, sprites, sprt, c);

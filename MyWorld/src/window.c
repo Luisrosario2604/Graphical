@@ -57,6 +57,7 @@ void main_display(container_t *c)
 	loading_textures(c);
 	sfMusic_play(c->window->music);
 	sfRenderWindow_setFramerateLimit(c->window->window, 60);
+
 	while (sfRenderWindow_isOpen(c->window->window)) {
 		mouse(c);
 		while (sfRenderWindow_pollEvent(c->window->window,

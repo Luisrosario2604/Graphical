@@ -18,15 +18,16 @@ The equipment was supposed to be collected in the first part of the game.
 
 Language : C
 
-Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index-fr.php)
+Library CSFML is needed [Installation](https://www.sfml-dev.org/download/csfml/index.php)
 
-###### Binary file can be also found if you don't want to install the CSFML and just try my "my_rpg".
+Check the main README.md for CSFML installation instruction (Linux users)
 
 ## Usage
 
 How to run
-```
-> ./my_rpg
+
+```bash
+./my_rpg
 ```
 
 Works only with the mouse
@@ -36,28 +37,33 @@ Works only with the mouse
 ###### Go in the project directory
 
 Clean (*.o files)
-```
-> make clean
+
+```bash
+make clean
 ```
 
 Full clean (*.o and binary file)
-```
-> make fclean
+
+```bash
+make fclean
 ```
 
 Compile
-```
-> make
+
+```bash
+make
 ```
 
 Full clean and compile
-```
-> make re
+
+```bash
+make re
 ```
 
 Compile with gdb (debugging)
-```
-> make gdb
+
+```bash
+make gdb
 ```
 
 ## Preview
@@ -72,4 +78,5 @@ This project was done in 2018
 
 ## Authors
 
-* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)
+* **Malusi Towo** - *Member 1* - [malusiTowo](https://github.com/malusiTowo?tab=stars)
+* **Luis Rosario** - *Member 2* - [Luisrosario2604](https://github.com/Luisrosario2604)

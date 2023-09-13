@@ -95,6 +95,7 @@ void init_survival_anim(container_t *c)
 	c->survival->counter = 0;
 	c->monster->slow = 0;
 	c->monster->height = 0;
+	c->monster->life = 0;
 }
 
 void init_survival(container_t *c)

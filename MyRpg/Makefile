@@ -127,7 +127,7 @@ NAME		=	my_rpg
 all		:	$(NAME)
 
 $(NAME)		:	$(OBJ)
-			gcc -lc_graph_prog -lm -o $(NAME) $(OBJ)
+			gcc -lcsfml-graphics -lcsfml-window -lcsfml-system -lcsfml-audio -lm -o $(NAME) $(OBJ)
 			rm -f $(OBJ)
 
 clean		:
