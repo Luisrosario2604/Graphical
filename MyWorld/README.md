@@ -66,4 +66,4 @@ This project was done in 2018
 ## Authors
 
 * **Malusi Towo** - *Member 1* - [malusiTowo](https://github.com/malusiTowo?tab=stars)
-* * **Luis Rosario** - *Member 2* - [Luisrosario2604](https://github.com/Luisrosario2604)
+* **Luis Rosario** - *Member 2* - [Luisrosario2604](https://github.com/Luisrosario2604)
