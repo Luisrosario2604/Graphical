@@ -1,16 +1,16 @@
 # My Rpg
 
-This is was the biggest graphical project that i done at school
+It's the biggest graphics project I've done at school
 
-This is a remake of the game called "60 seconds"
+This is a remake of a game called "60 seconds"
 
 ###### This project was supposed to be done by 4 people but unfortunately all my teammates dropped out of school at that time, so there is only my part (the survival part of the game), enjoy !
 
 The goal is to survive as long as possible, a monster can appear every night, when he dies, you gain an improvement point.
 
-You must try not to reduce a character's hunger, thirst, or health to 0
+You must try not to reduce a character's hunger, thirst, or health to 0.
 
-You will find the equipment in the chest, and the upgrades just above
+You will find the equipment in the chest, and the upgrades just above.
 
 The equipment was supposed to be collected in the first part of the game.
 
